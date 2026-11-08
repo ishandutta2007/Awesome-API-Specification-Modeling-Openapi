@@ -1,32 +1,45 @@
-# Awesome API Specification, Modeling & OpenAPI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome API Specification &amp; Modeling Banner" width="100%" />
+</p>
 
-> A curated list of awesome tools, platforms, specifications, and libraries for API specification, data modeling, contract design, OpenAPI (OAS 3.0/3.1), AsyncAPI, and documentation generation.
+# 🚀 Awesome API Specification, Modeling & OpenAPI Tools
 
-API specification and modeling frameworks enable design-first and schema-driven engineering workflows. They ensure seamless cross-functional collaboration, contract testing, mock simulation, and automated client/server code generation across distributed microservice architectures.
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
----
+> 📚 A curated list of awesome tools, platforms, specifications, and libraries for API specification, data modeling, contract design, OpenAPI (OAS 3.0/3.1), AsyncAPI, and documentation generation.
 
-## Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS Products & Platforms](#saas-products--platforms)
-- [Open-Source Tools & Frameworks](#open-source-tools--frameworks)
-- [Specifications & Standards](#specifications--standards)
-- [Contributing](#contributing)
-
----
-
-## Sector Overview & Market Dynamics
-
-The global API management and design-tooling market is estimated at **$6.9B–$8.2B in 2025** and projected to exceed **$10B+ by 2026** (CAGR ~25–28%). 
-
-The sector is **moderately fragmented**: enterprise runtime gateways and full-lifecycle suites exhibit high vendor consolidation around hyperscalers and key leaders, whereas the API design, contract modeling, and developer tooling layers remain dynamic and fragmented with vibrant competition between venture-backed SaaS platforms and community-driven open-source ecosystems.
+API specification and modeling frameworks enable design-first and schema-driven engineering workflows. They ensure seamless cross-functional collaboration, contract testing, mock simulation, and automated client/server code generation across distributed microservice architectures. 🛠️✨
 
 ---
 
-## SaaS Products & Platforms
+## 📑 Contents
 
-Curated list of commercial SaaS platforms for API design, schema modeling, governance, and collaborative developer portals. Sorted descending by company size (valuation / estimated market standing).
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS Products & Platforms](#️-saas-products--platforms)
+- [💻 Open-Source Tools & Frameworks](#-open-source-tools--frameworks)
+- [📜 Specifications & Standards](#-specifications--standards)
+- [🌟 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 Contributing](#-contributing)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global API management and design-tooling market is estimated at **$6.9B–$8.2B in 2025** and projected to exceed **$10B+ by 2026** (CAGR ~25–28%). 📈
+
+The sector is **moderately fragmented**: enterprise runtime gateways and full-lifecycle suites exhibit high vendor consolidation around hyperscalers and key leaders, whereas the API design, contract modeling, and developer tooling layers remain dynamic and fragmented with vibrant competition between venture-backed SaaS platforms and community-driven open-source ecosystems. 🌐
+
+---
+
+## ☁️ SaaS Products & Platforms
+
+Curated list of commercial SaaS platforms for API design, schema modeling, governance, and collaborative developer portals. Sorted descending by company size (valuation / estimated market standing). 🏢💼
 
 | Product | Company Size (Valuation / Revenue) | Pricing | Free Tier / Trial Limits | Description |
 |---|---|---|---|---|
@@ -39,9 +52,9 @@ Curated list of commercial SaaS platforms for API design, schema modeling, gover
 
 ---
 
-## Open-Source Tools & Frameworks
+## 💻 Open-Source Tools & Frameworks
 
-Open-source tools, linting engines, and editors for OpenAPI, AsyncAPI, and schema specifications. Sorted descending by GitHub star count.
+Open-source tools, linting engines, and editors for OpenAPI, AsyncAPI, and schema specifications. Sorted descending by GitHub star count. 🔓⭐
 
 | Tool | Stars | License | Description |
 |---|---|---|---|
@@ -59,16 +72,34 @@ Open-source tools, linting engines, and editors for OpenAPI, AsyncAPI, and schem
 
 ---
 
-## Specifications & Standards
+## 📜 Specifications & Standards
 
-- **[OpenAPI Specification (OAS)](https://spec.openapis.org/oas/latest.html)**: Industry standard specification for machine-readable REST API contracts.
-- **[AsyncAPI Specification](https://www.asyncapi.com/docs/specifications/latest)**: Open standard for event-driven architectures, WebSockets, Kafka, and message queues.
-- **[JSON Schema](https://json-schema.org/)**: Declarative language for annotating and validating structured JSON documents.
-- **[GraphQL](https://spec.graphql.org/)**: Query language and server-side runtime for executing queries using a type system.
+- 📘 **[OpenAPI Specification (OAS)](https://spec.openapis.org/oas/latest.html)**: Industry standard specification for machine-readable REST API contracts.
+- ⚡ **[AsyncAPI Specification](https://www.asyncapi.com/docs/specifications/latest)**: Open standard for event-driven architectures, WebSockets, Kafka, and message queues.
+- 📐 **[JSON Schema](https://json-schema.org/)**: Declarative language for annotating and validating structured JSON documents.
+- 🔗 **[GraphQL](https://spec.graphql.org/)**: Query language and server-side runtime for executing queries using a type system.
 
 ---
 
-## Contributing
+## 🌟 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-API-Specification-Modeling-Openapi&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-API-Specification-Modeling-Openapi&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring this curated repository! If this resource helps your API development journey, streamlines your contract workflows, or helps your engineering team adopt OpenAPI standards, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork the project** and share it with your developer community.
+- ☕ **Buy me a coffee**: Support ongoing maintenance and new curated additions on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your encouragement and support are greatly appreciated! 🙌
+
+---
+
+## 🤝 Contributing
 
 Contributions are warmly welcome! Please check out our contribution guidelines:
 1. Ensure the tool or platform directly supports API specification, modeling, linting, or documentation.
